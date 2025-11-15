@@ -1,0 +1,15 @@
+.git
+.gitignore
+README.md
+*.md
+.env
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+.github/
+!configs/
